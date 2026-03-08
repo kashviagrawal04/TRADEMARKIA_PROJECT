@@ -1,0 +1,15 @@
+{"query": "what are the health risks of smoking?", "cache_hit": false, "similarity_score": 0.0, "dominant_cluster": 4, "ts": 1772901874.8581905}
+{"query": "how does cigarette use affect the body?", "cache_hit": false, "similarity_score": 0.6524890661239624, "dominant_cluster": 4, "ts": 1772901935.3017266}
+{"query": "how does cigarette use affect the body?", "cache_hit": true, "matched_query": "how does cigarette use affect the body?", "similarity_score": 1.0, "dominant_cluster": 4, "ts": 1772902085.3613474}
+{"query": "how does cigarette use affect the body?", "cache_hit": true, "matched_query": "how does cigarette use affect the body?", "similarity_score": 1.0, "dominant_cluster": 4, "ts": 1772902094.9571505}
+{"query": "how does cigarette use affect the body?", "cache_hit": true, "matched_query": "how does cigarette use affect the body?", "similarity_score": 1.0, "dominant_cluster": 4, "ts": 1772902097.0293243}
+{"query": "how does cigarette use affect the body?", "cache_hit": true, "matched_query": "how does cigarette use affect the body?", "similarity_score": 1.0, "dominant_cluster": 4, "ts": 1772902101.3534794}
+{"query": "health risks of smoking", "cache_hit": false, "similarity_score": 0.0, "dominant_cluster": 4, "ts": 1772903324.1872566}
+{"query": "why is health risked on smoking", "cache_hit": false, "similarity_score": 0.8215735554695129, "dominant_cluster": 4, "ts": 1772903367.9985542}
+{"query": "why is health risked on smoking", "cache_hit": true, "matched_query": "why is health risked on smoking", "similarity_score": 1.0, "dominant_cluster": 4, "ts": 1772903379.6910336}
+{"query": "NASA space shuttle launch", "cache_hit": false, "similarity_score": 0.0, "dominant_cluster": 2, "ts": 1772903457.9571512}
+{"query": "what are the health risks of smoking", "cache_hit": false, "similarity_score": 0.0, "dominant_cluster": 4, "ts": 1772956302.9349775}
+{"query": "why is smoking bad", "cache_hit": true, "matched_query": "what are the health risks of smoking", "similarity_score": 0.7289735674858093, "dominant_cluster": 4, "ts": 1772956321.4156506}
+{"query": "why is smoking bad", "cache_hit": false, "similarity_score": 0.0, "dominant_cluster": 4, "ts": 1772956344.915903}
+{"query": "how is smoking dangeroud", "cache_hit": false, "similarity_score": 0.0, "dominant_cluster": 4, "ts": 1772987765.3986027}
+{"query": "how is smoking dangerous", "cache_hit": true, "matched_query": "how is smoking dangeroud", "similarity_score": 0.8542080521583557, "dominant_cluster": 4, "ts": 1772987765.8286226}
